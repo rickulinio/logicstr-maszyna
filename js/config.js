@@ -13,9 +13,6 @@ const CONFIG = {
     { p: "Czy mogę mieć kilka postaci?", o: "Na gracza przypada maksymalnie jedna postać, chyba że administrator zdecyduje inaczej." },
     { p: "Co grozi za złamanie regulaminu?", o: "Sprawdź zakładkę Taryfikator, są tam kary za poszczególne przewinienia." },
     { p: "Czy potrzebny jest mikrofon?", o: "Tak, wymagany jest sprawnie działający mikrofon." },
-    { p: "Czy lubisz kutasy?", o: "Lubię kutasy." },
-    { p: "Czy lubisz kutasy?", o: "Lubię kutasy." },
-    { p: "Czy lubisz kutasy?", o: "Lubię kutasy." },
   ],
 
   postacie: [
