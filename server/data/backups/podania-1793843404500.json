@@ -1,0 +1,69 @@
+[
+ {
+  "id": "administracja",
+  "name": "Podanie do administracji",
+  "desc": "Chcesz pomagać w prowadzeniu serwera? Wypełnij formularz – odpowiedzi trafią do Zarządu.",
+  "icon": "/uploads/podanie-84d79ea8cfcb98d6.webp",
+  "open": true,
+  "notifyChannelId": "1558940841303736370",
+  "reviewRoles": [
+   "1558940462545637409"
+  ],
+  "questions": [
+   {
+    "id": "q1",
+    "label": "Imię i wiek (OOC)",
+    "type": "short",
+    "required": true
+   },
+   {
+    "id": "q2",
+    "label": "Ile godzin dziennie możesz poświęcić na serwer?",
+    "type": "short",
+    "required": true
+   },
+   {
+    "id": "q3",
+    "label": "Czy znasz regulamin serwera?",
+    "type": "choice",
+    "required": true,
+    "options": [
+     "Tak, w całości",
+     "Częściowo",
+     "Nie"
+    ]
+   },
+   {
+    "id": "q4",
+    "label": "Opisz swoje doświadczenie w administrowaniu serwerami RP",
+    "type": "long",
+    "required": true
+   },
+   {
+    "id": "q5",
+    "label": "Dlaczego chcesz dołączyć do administracji?",
+    "type": "long",
+    "required": true
+   }
+  ]
+ },
+ {
+  "id": "test",
+  "name": "test",
+  "desc": "test",
+  "icon": "",
+  "open": false,
+  "notifyChannelId": "1558940841303736370",
+  "reviewRoles": [
+   "1562163506063605810"
+  ],
+  "questions": [
+   {
+    "id": "0cc534",
+    "label": "Dlaczego chcesz dołączyć?",
+    "type": "long",
+    "required": true
+   }
+  ]
+ }
+]

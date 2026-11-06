@@ -1,0 +1,111 @@
+[
+ {
+  "id": "administracja",
+  "name": "Podanie do administracji",
+  "desc": "Dołącz do administracji Project Logic.",
+  "icon": "/uploads/podanie-84d79ea8cfcb98d6.webp",
+  "open": true,
+  "notifyChannelId": "1568054292244598874",
+  "reviewRoles": [
+   "1558940462545637409"
+  ],
+  "questions": [
+   {
+    "id": "q1",
+    "label": "Imię i wiek (OOC)",
+    "type": "short",
+    "required": true
+   },
+   {
+    "id": "q2",
+    "label": "Ile godzin dziennie możesz poświęcić na serwer?",
+    "type": "short",
+    "required": true
+   },
+   {
+    "id": "q3",
+    "label": "Czy znasz regulamin serwera?",
+    "type": "choice",
+    "required": true,
+    "options": [
+     "Tak, w całości",
+     "Częściowo",
+     "Nie"
+    ]
+   },
+   {
+    "id": "q4",
+    "label": "Opisz swoje doświadczenie w administrowaniu serwerami RP",
+    "type": "long",
+    "required": true
+   },
+   {
+    "id": "q5",
+    "label": "Dlaczego chcesz dołączyć do administracji?",
+    "type": "long",
+    "required": true
+   }
+  ]
+ },
+ {
+  "id": "podanie-na-organizacje",
+  "name": "Podanie na organizacje",
+  "desc": "Stworzysz tutaj organizacje crime",
+  "icon": "/uploads/podanie-8329918ee1dc5fba.webp",
+  "open": true,
+  "notifyChannelId": "",
+  "reviewRoles": [
+   "1558940478001381437"
+  ],
+  "questions": [
+   {
+    "id": "8dc9e7",
+    "label": "Jakie masz doświadczenie w odgrywaniu organizacji?",
+    "type": "long",
+    "required": true
+   },
+   {
+    "id": "ac05ef",
+    "label": "Czy byleś już szefem organizacji przestępczej?",
+    "type": "long",
+    "required": true
+   },
+   {
+    "id": "38a111",
+    "label": "Nazwa organizacji:",
+    "type": "short",
+    "required": true
+   },
+   {
+    "id": "d6e77c",
+    "label": "Typ i hierarchia organizacji:",
+    "type": "short",
+    "required": true
+   },
+   {
+    "id": "c73c3c",
+    "label": "Historia organizacji (min. 150 słów):",
+    "type": "long",
+    "required": true
+   },
+   {
+    "id": "6bc83d",
+    "label": "Nick i ID z discorda członków organizacji (min. 5):",
+    "type": "short",
+    "required": true
+   },
+   {
+    "id": "6d44ac",
+    "label": "Plan na rozgrywkę organizacji:",
+    "type": "short",
+    "required": true
+   },
+   {
+    "id": "771aed",
+    "label": "Dodatkowe informacje (nie wymagane):",
+    "type": "short",
+    "required": false
+   }
+  ]
+ }
+]

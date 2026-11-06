@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<base href="/">
+<title>Project Logic Roleplay</title>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="icon" href="favicon.png">
+<meta property="og:image" content="favicon.png">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/theme.css">
+<link rel="stylesheet" href="css/panel.css">
+<link rel="stylesheet" href="css/polish.css">
+<meta name="theme-color" content="#0b0d0e">
+</head>
+<body>
+<div class="bg"><div class="flame"><i></i><i></i><i></i></div><i class="ring r1"></i><i class="ring r2"></i><i class="ring r3"></i><i class="ring r4"></i><i class="ring r5"></i><i class="ring r6"></i></div><div id="spot"></div><div id="prog"></div>
+<div id="splash"><img id="slogo" alt=""></div><script>try{if(sessionStorage.getItem("plr_ns")){sessionStorage.removeItem("plr_ns");document.getElementById("splash").style.display="none";}}catch(e){}</script><div class="blob b1"></div><div class="blob b2"></div>
+
+<header class="nav"><div class="in">
+  <a href="/start" style="padding:0"><img id="logo" alt="Logo"></a>
+  <nav class="links" id="links">
+    <a href="/start" data-r="start">Start</a>
+    <a href="/regulaminy" data-r="regulaminy">Regulaminy</a>
+    <a href="/taryfikator" data-r="taryfikator">Taryfikator</a>
+    <a href="/podania" data-r="podania">Podania</a>
+    <a href="/postacie" data-r="postacie">Postacie</a>
+  </nav>
+  <div class="soc"><a id="nd" target="_blank" rel="noopener" title="Discord"><img src="img/discord.svg" alt="Discord"></a><a id="nf" title="Połącz z FiveM"><img src="img/fivem.svg" alt="FiveM"></a></div>
+  <div class="acct" id="acct"></div>
+  <button class="burger" id="burger" aria-label="Menu"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+</div></header>
+
+<main id="app"></main>
+<footer id="foot"></footer>
+<div class="toast" id="toast"></div>
+
+<script src="js/config.js"></script>
+<script src="js/panel.js"></script>
+<script src="js/podania.js"></script>
+<script src="js/postacie.js"></script>
+<script src="js/app.js"></script>
+<script src="js/protect.js"></script>
+</body>
+</html>

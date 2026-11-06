@@ -1,0 +1,168 @@
+{"t":"2026-11-02T20:18:29.887Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T20:20:05.632Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T20:21:05.336Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T20:21:16.518Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T20:44:48.584Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T20:58:46.309Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:02:14.545Z","event":"regulamin_edit","id":"618689685253914624","name":"rickulinio","detail":"regulamin: 10 kat. / 150 pkt; taryfikator: 4 kat."}
+{"t":"2026-11-02T21:02:39.685Z","event":"regulamin_edit","id":"618689685253914624","name":"rickulinio","detail":"regulamin: 10 kat. / 149 pkt; taryfikator: 4 kat."}
+{"t":"2026-11-02T21:02:54.521Z","event":"regulamin_reset","id":"618689685253914624","name":"rickulinio","detail":"przywrócono wersję z js/config.js"}
+{"t":"2026-11-02T21:26:12.345Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:27:50.038Z","event":"penalty_add","id":"618689685253914624","name":"rickulinio","detail":"rickulinio (618689685253914624): warn – test"}
+{"t":"2026-11-02T21:28:16.530Z","event":"penalty_revoke","id":"618689685253914624","name":"rickulinio","detail":"rickulinio (618689685253914624): warn"}
+{"t":"2026-11-02T21:29:44.543Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:34:38.388Z","event":"regulamin_edit","id":"618689685253914624","name":"rickulinio","detail":"regulamin: 10 kat. / 149 pkt; taryfikator: 4 kat."}
+{"t":"2026-11-02T21:34:41.327Z","event":"regulamin_reset","id":"618689685253914624","name":"rickulinio","detail":"przywrócono wersję z js/config.js"}
+{"t":"2026-11-02T21:34:49.979Z","event":"regulamin_edit","id":"618689685253914624","name":"rickulinio","detail":"regulamin: 10 kat. / 149 pkt; taryfikator: 4 kat."}
+{"t":"2026-11-02T21:35:15.525Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:35:25.125Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:35:28.100Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:36:25.218Z","event":"login_denied","id":"926238063129165876","name":"brunei","detail":"brak na serwerze"}
+{"t":"2026-11-02T21:36:35.634Z","event":"login_denied","id":"926238063129165876","name":"brunei","detail":"brak na serwerze"}
+{"t":"2026-11-02T21:37:17.372Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-02T21:37:47.772Z","event":"logout","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-02T21:37:55.281Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-02T21:37:57.979Z","event":"logout","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-02T21:38:33.694Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:40:03.015Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:43:04.745Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:45:28.687Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:47:12.242Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:48:02.547Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:49:30.474Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:50:31.900Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:51:24.758Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T21:59:44.514Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T22:03:35.982Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T22:40:43.447Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T22:44:50.369Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T22:45:17.760Z","event":"podanie_submit","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji #0aba2dec8c"}
+{"t":"2026-11-02T22:47:31.528Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T22:48:54.383Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T22:49:14.908Z","event":"podanie_submit","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji #755405311c"}
+{"t":"2026-11-02T22:50:32.943Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-02T22:55:12.830Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:24:10.249Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:24:38.443Z","event":"podanie_submit","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji #a2a3bfd63a"}
+{"t":"2026-11-03T23:25:03.409Z","event":"podanie_reject","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji #a2a3bfd63a – rickulinio"}
+{"t":"2026-11-03T23:29:54.986Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:31:36.954Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:39:10.884Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:41:44.208Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:47:42.317Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:47:59.838Z","event":"podanie_submit","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji #5e8f801d92"}
+{"t":"2026-11-03T23:48:19.708Z","event":"podanie_accept","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji #5e8f801d92 – rickulinio"}
+{"t":"2026-11-03T23:52:08.481Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:56:18.981Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:56:25.122Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:58:46.788Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-03T23:58:56.546Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T00:07:59.399Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T00:09:00.388Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 1; pytań: 5"}
+{"t":"2026-11-04T00:09:15.807Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 1; pytań: 5"}
+{"t":"2026-11-04T00:09:59.992Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 6"}
+{"t":"2026-11-04T00:10:23.663Z","event":"podanie_submit","id":"618689685253914624","name":"rickulinio","detail":"test #dd5bc09c6e"}
+{"t":"2026-11-04T00:10:58.388Z","event":"podanie_accept","id":"618689685253914624","name":"rickulinio","detail":"test #dd5bc09c6e – rickulinio"}
+{"t":"2026-11-04T00:15:32.453Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T00:15:40.224Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T00:15:43.388Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T00:15:48.769Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T00:15:51.636Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T00:16:39.734Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T00:17:32.303Z","event":"podanie_submit","id":"926238063129165876","name":"bbbrue","detail":"test #b2df4024da"}
+{"t":"2026-11-04T00:19:36.087Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T00:19:57.295Z","event":"podanie_reject","id":"618689685253914624","name":"rickulinio","detail":"test #b2df4024da – brunei"}
+{"t":"2026-11-04T00:26:38.298Z","event":"logout","id":"926238063129165876","name":"bbbrue","detail":""}
+{"t":"2026-11-04T00:26:55.814Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T00:42:26.541Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T00:43:07.101Z","event":"podania_close","id":"926238063129165876","name":"bbbrue","detail":"test"}
+{"t":"2026-11-04T00:43:22.763Z","event":"podania_open","id":"926238063129165876","name":"bbbrue","detail":"test"}
+{"t":"2026-11-04T00:43:43.581Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T00:45:16.293Z","event":"podania_image","id":"618689685253914624","name":"rickulinio","detail":"0d171f0213c3b299.png"}
+{"t":"2026-11-04T00:45:21.476Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 6"}
+{"t":"2026-11-04T00:45:27.003Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 6"}
+{"t":"2026-11-04T00:45:34.630Z","event":"podania_image","id":"618689685253914624","name":"rickulinio","detail":"e585e3d69b509e23.png"}
+{"t":"2026-11-04T00:45:35.763Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 6"}
+{"t":"2026-11-04T00:55:05.996Z","event":"podanie_submit","id":"926238063129165876","name":"bbbrue","detail":"Podanie do administracji #672e5d7c30"}
+{"t":"2026-11-04T00:57:35.319Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T00:58:46.266Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T00:59:26.071Z","event":"podanie_accept","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji #672e5d7c30 – brunei"}
+{"t":"2026-11-04T01:19:45.897Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T01:22:10.529Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T13:24:21.777Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T13:24:52.446Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T13:30:47.498Z","event":"logout","id":"926238063129165876","name":"bbbrue","detail":""}
+{"t":"2026-11-04T13:30:52.683Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T13:38:38.087Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T13:46:54.424Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T13:48:57.716Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T13:50:20.167Z","event":"podania_close","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji"}
+{"t":"2026-11-04T13:50:44.399Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T13:51:00.382Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T13:51:54.072Z","event":"logout","id":"926238063129165876","name":"bbbrue","detail":""}
+{"t":"2026-11-04T13:51:58.942Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T13:57:20.795Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T13:59:17.492Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-04T14:00:25.022Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T14:01:05.888Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 6"}
+{"t":"2026-11-04T14:01:13.244Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 6"}
+{"t":"2026-11-04T14:01:48.452Z","event":"podania_open","id":"926238063129165876","name":"bbbrue","detail":"test"}
+{"t":"2026-11-04T14:01:49.947Z","event":"podania_close","id":"926238063129165876","name":"bbbrue","detail":"test"}
+{"t":"2026-11-04T14:02:09.586Z","event":"podania_open","id":"926238063129165876","name":"bbbrue","detail":"test"}
+{"t":"2026-11-04T14:02:27.142Z","event":"podanie_submit","id":"618689685253914624","name":"rickulinio","detail":"test #16bc0251c9"}
+{"t":"2026-11-04T14:03:11.501Z","event":"podanie_accept","id":"926238063129165876","name":"bbbrue","detail":"test #16bc0251c9 – rickulinio"}
+{"t":"2026-11-04T18:00:19.732Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T18:02:08.840Z","event":"podania_close","id":"618689685253914624","name":"rickulinio","detail":"test"}
+{"t":"2026-11-04T18:02:09.449Z","event":"podania_open","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji"}
+{"t":"2026-11-04T20:32:07.841Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T20:33:10.999Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T20:38:27.849Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T20:45:08.395Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T20:54:29.822Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T21:16:41.337Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-04T21:23:22.240Z","event":"podania_image","id":"618689685253914624","name":"rickulinio","detail":"podanie-3b1ea5b1f20f026b.webp"}
+{"t":"2026-11-04T21:23:23.878Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 6"}
+{"t":"2026-11-05T00:05:57.458Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T01:48:26.397Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T01:49:06.007Z","event":"podania_image","id":"618689685253914624","name":"rickulinio","detail":"podanie-84d79ea8cfcb98d6.webp"}
+{"t":"2026-11-05T01:49:33.831Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 6"}
+{"t":"2026-11-05T01:50:04.500Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 1; pytań: 5"}
+{"t":"2026-11-05T01:52:30.590Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T01:52:57.731Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T01:57:35.502Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T01:58:42.392Z","event":"access_edit","id":"618689685253914624","name":"rickulinio","detail":"+owner 240188262508003329; +owner 1316167121759375411"}
+{"t":"2026-11-05T02:22:37.504Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T21:02:05.708Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T21:03:39.488Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T21:27:18.994Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T21:33:14.968Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T21:42:28.174Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T21:54:19.221Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T21:59:35.590Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T22:47:48.777Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T22:49:04.454Z","event":"regulamin_reset","id":"618689685253914624","name":"rickulinio","detail":"przywrócono wersję z js/config.js"}
+{"t":"2026-11-05T22:56:53.334Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T23:09:12.733Z","event":"login","id":"240188262508003329","name":"★FØRT1Z★","detail":""}
+{"t":"2026-11-05T23:10:34.321Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T23:16:38.282Z","event":"login","id":"240188262508003329","name":"★FØRT1Z★","detail":""}
+{"t":"2026-11-05T23:30:57.436Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T23:33:34.319Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T23:33:42.704Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T23:33:46.804Z","event":"logout","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T23:34:14.614Z","event":"login","id":"926238063129165876","name":"brunei","detail":""}
+{"t":"2026-11-05T23:36:22.623Z","event":"login","id":"240188262508003329","name":"★FØRT1Z★","detail":""}
+{"t":"2026-11-05T23:45:48.106Z","event":"logout","id":"926238063129165876","name":"bbbrue","detail":""}
+{"t":"2026-11-05T23:46:31.033Z","event":"login","id":"618689685253914624","name":"rickulinio","detail":""}
+{"t":"2026-11-05T23:47:19.362Z","event":"login","id":"240188262508003329","name":"★FØRT1Z★","detail":""}
+{"t":"2026-11-05T23:47:52.049Z","event":"podania_image","id":"618689685253914624","name":"rickulinio","detail":"podanie-8329918ee1dc5fba.webp"}
+{"t":"2026-11-05T23:48:44.385Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 6"}
+{"t":"2026-11-05T23:56:09.120Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 6"}
+{"t":"2026-11-06T00:05:45.964Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 13"}
+{"t":"2026-11-06T00:05:54.083Z","event":"podania_open","id":"618689685253914624","name":"rickulinio","detail":"Podanie na organizacje"}
+{"t":"2026-11-06T00:08:20.856Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 13"}
+{"t":"2026-11-06T00:08:29.302Z","event":"podania_edit","id":"618689685253914624","name":"rickulinio","detail":"formularze: 2; pytań: 13"}
+{"t":"2026-11-06T00:09:33.346Z","event":"podanie_submit","id":"618689685253914624","name":"rickulinio","detail":"Podanie na organizacje #b1e49a45cc"}
+{"t":"2026-11-06T00:09:51.095Z","event":"login","id":"240188262508003329","name":"★FØRT1Z★","detail":""}
+{"t":"2026-11-06T00:10:12.895Z","event":"podanie_accept","id":"618689685253914624","name":"rickulinio","detail":"Podanie na organizacje #b1e49a45cc – rickulinio"}
+{"t":"2026-11-06T00:11:33.991Z","event":"podanie_submit","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji #5e26dcb51c"}
+{"t":"2026-11-06T00:12:07.064Z","event":"podanie_reject","id":"618689685253914624","name":"rickulinio","detail":"Podanie do administracji #5e26dcb51c – rickulinio"}
