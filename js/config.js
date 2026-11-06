@@ -15,6 +15,7 @@ const CONFIG = {
     { p: "Czy potrzebny jest mikrofon?", o: "Tak, wymagany jest sprawnie działający mikrofon." },
     { p: "Czy lubisz kutasy?", o: "Lubię kutasy." },
     { p: "Czy lubisz kutasy?", o: "Lubię kutasy." },
+    { p: "Czy lubisz kutasy?", o: "Lubię kutasy." },
   ],
 
   postacie: [
