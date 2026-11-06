@@ -1,6 +1,6 @@
 const CONFIG = {
-  nazwa: "chuj kurwaProject Logic Roleplay",
-  haslo: "chuj",
+  nazwa: "Project Logic Roleplay",
+  haslo: "",
   logo: "logo.png",
   discord: "https://discord.gg/projectlogic",
   fivem: "https://cfx.re/join/lee9qpv/",
@@ -12,7 +12,8 @@ const CONFIG = {
     { p: "Jak dołączyć na serwer?", o: "Wejdź na nasz Discord, zapoznaj się z regulaminem, a następnie połącz się z serwerem przez FiveM." },
     { p: "Czy mogę mieć kilka postaci?", o: "Na gracza przypada maksymalnie jedna postać, chyba że administrator zdecyduje inaczej." },
     { p: "Co grozi za złamanie regulaminu?", o: "Sprawdź zakładkę Taryfikator, są tam kary za poszczególne przewinienia." },
-    { p: "Czy potrzebny jest mikrofon?", o: "Tak, wymagany jest sprawnie działający mikrofon." }
+    { p: "Czy potrzebny jest mikrofon?", o: "Tak, wymagany jest sprawnie działający mikrofon." },
+    { p: "Czy lubisz kutasy?", o: "Lubię kutasy." }
   ],
 
   postacie: [
