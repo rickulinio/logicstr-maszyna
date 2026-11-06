@@ -5,7 +5,8 @@
   "description": "Serwer strony i panelu Project Logic Roleplay (Discord OAuth2)",
   "main": "server.js",
   "scripts": {
-    "start": "node --env-file=.env server.js"
+    "start": "node --env-file=.env server.js",
+    "git": "git add . && git commit -m \"Aktualizacja kodu\" && git push"
   },
   "engines": {
     "node": ">=20.6"
