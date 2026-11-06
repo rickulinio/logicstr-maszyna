@@ -1,6 +1,6 @@
 const CONFIG = {
   nazwa: "Project Logic Roleplay",
-  haslo: "",
+  haslo: "chuj",
   logo: "logo.png",
   discord: "https://discord.gg/projectlogic",
   fivem: "https://cfx.re/join/lee9qpv/",
